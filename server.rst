@@ -1,6 +1,7 @@
 ############
 Server Rules
 #############
+
 .. note::
 
   The Ultimate Roleplay Server Rules are all the rules that are related to accounts, scripts which aren't monitoring in character actions and more.
