@@ -5,9 +5,9 @@ Server Rules
 
   The Ultimate Roleplay Server Rules are all the rules that are related to accounts, scripts which aren't monitoring in character actions and more.
 
-.. _bug tracker: TBA
-.. _UAT Contact: TBA
-.. _Support Center: TBA
+.. _bug tracker: <TBA>
+.. _UAT Contact: <TBA>
+.. _Support Center: <TBA>
 
 General Conduct
 ===============
